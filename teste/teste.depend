@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1488332603 source:/home/salazar/Documentos/PROGRAMACAO/hello-work/teste/main.cpp
+	<iostream>
+	<iomanip>
+
