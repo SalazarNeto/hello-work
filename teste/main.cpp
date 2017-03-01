@@ -8,7 +8,9 @@ int main()
 
     cout << fixed << showpoint;
     cout << setprecision(2) ;
+    cout << "git e legal vamos a mais um commit" << endl;
+    cout << x << endl;
 
-    cout << x ;
+
     return 0;
 }
